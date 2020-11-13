@@ -1,7 +1,11 @@
 body {
   background: #e5e5e5;
 }
+  .web-titles
+ {
+    color: #ffffff;
 
+  }
 .web-title {
   color: #2196f3;
 }
@@ -26,39 +30,42 @@ body {
   font-family: Roboto;
   line-height: 60px;
   margin-top: 200px;
-  margin-left: 450px;
+  margin-left: 470px;
   margin-bottom: 30px;
-  padding-top: 50px;
+  
 }
-.hero-link {
-  background: #2196f3;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-  border-radius: 4px;
-  margin-left: 600px;
-  margin-top: 15px;
-  margin-bottom: 200px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-right: 32px;
-  padding-left: 32px;
-  width: 200px;
-}
-.hero-text {
-  color: #ffffff;
-  font-size: 16px;
-  line-height: 30px;
-  font-family: Roboto;
-  font-weight: 500;
-  padding-left: 32px;
-  padding-right: 32px;
-  padding-top: 50px;
-  padding-bottom: 50px;
-}
-.hero {
-  background: #2f303a;
-  width: 1600px;
-  height: 400px;
-}
+ .hero-text
+  {
+  color: #FFFFFF;
+ font-family: Roboto;
+ font-weight: 700;
+ font-style: normal;
+ font-weight: bold;
+ font-size: 16px;
+ line-height: 30px;
+
+ width: 136px;
+ height: 30px;
+ 
+ }
+  .hero-button{
+  background: #2196F3;
+ width: 200px;
+ height: 50px;
+ margin-left: 680px;
+ margin-top: 20px;
+ margin-bottom: 100px;
+ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+ border-radius: 4px;
+ }
+ .hero 
+  {
+    background: #2F303A;
+     width: 1600px;
+    height: 400px;
+    padding-top: 80px;
+    padding-bottom: 200px;
+  }
 
 .button {
   background: #2196f3;
@@ -121,6 +128,8 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
+   width: 231px;
+   height: 21px;
 }
 .footer-amail {
   font-family: Roboto;
